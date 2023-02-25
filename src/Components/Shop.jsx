@@ -1,5 +1,5 @@
 function Shop() {
-  return <div>Hi</div>
+  return <h1>Single Shop info</h1>
 }
 
 export default Shop

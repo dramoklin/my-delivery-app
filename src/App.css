@@ -2,8 +2,11 @@
   text-align: center;
 }
 a {
-  color: rgb(24, 25, 25);
+  color: rgb(23, 23, 205);
   font-size: 17px;
+}
+a:hover {
+  text-decoration: underline;
 }
 
 nav {
@@ -13,7 +16,7 @@ nav {
   justify-content: flex-start;
   align-content: stretch;
   align-items: flex-end;
-  background: rgb(236, 241, 241);
+  background: rgba(236, 241, 241, 0.711);
   padding: 5px;
   border: 50px;
 }
